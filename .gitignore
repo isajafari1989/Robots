@@ -4,6 +4,8 @@
 .vscode/
 #Cache folder
 .alcache/
+#Node Modules
+.node_modules/
 #Symbols folder
 .alpackages/
 #Snapshots folder

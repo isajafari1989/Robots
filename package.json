@@ -2,6 +2,11 @@
   "name": "first-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://isajafari1989.github.io/Robots",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isajafari1989/Robots.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,8 +19,6 @@
     "@babel/core": "7.22.5",
     "@babel/eslint-parser": "7.22.5",
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
-    "homepage":"https://isajafari1989.github.io/Robots",
-    "repository":"https://github.com/isajafari1989/Robots",
     "@babel/preset-env": "7.22.5"
   },
   "scripts": {
